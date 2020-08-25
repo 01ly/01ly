@@ -1,8 +1,13 @@
-[![01ly's github stats](https://github-readme-stats.vercel.app/api?username=01ly&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![01ly's github stats](https://github-readme-stats.vercel.app/api?username=01ly&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 - 🔭 I’m currently working on LEARNNING REVERSE ENGINEERING.
-- 📫 How to reach me: [Blog](https://01ly.github.io/), [Email](crawler@88.com), [WeChat](gameids).
+
+### Contact Me
+
+- WeChat:gameids
+- Email:crawler@88.com
+- Telegram:@systerm
 <!--
 **01ly/01ly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
